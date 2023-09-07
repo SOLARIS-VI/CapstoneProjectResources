@@ -17,6 +17,9 @@ CodeCrush is a capstone project focused on creating an engaging and effective pl
 4. **UML Diagrams**
    - Class Diagram - MVP - COMPLETED
    - Class Diagram - EXT - COMPLETED
+   - Interaction Diagrams - COMPLETED
+   - Collaboration Diagram - COMPLETED
+   - Tech Stack Diagram - COMPLETED
 
 5. **Avatars**
    - Various avatar images *(Additional avatars will be created if needed for the app.)*
