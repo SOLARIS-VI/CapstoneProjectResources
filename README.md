@@ -6,7 +6,7 @@ CodeCrush is a capstone project focused on creating an engaging and effective pl
 
 ## Contents
 
-1. **UI/UX Development Files** *(These files are currently in progress and will need further development.)*
+1. **UI/UX Development Files** 
 
 2. **App Questions**
 
@@ -16,7 +16,7 @@ CodeCrush is a capstone project focused on creating an engaging and effective pl
 
 4. **UML Diagrams**
    - Class Diagram - MVP - COMPLETED
-   - Class Diagram - EXT - PENDING 
+   - Class Diagram - EXT - COMPLETED
 
 5. **Avatars**
    - Various avatar images *(Additional avatars will be created if needed for the app.)*
